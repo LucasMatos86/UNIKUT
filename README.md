@@ -1,4 +1,4 @@
-# UNIKUT - A Rede Social Mais Anti-Social do Mundo 
+# UNIKUT - A Rede Social da UNICAP
 
 Desenvolvido pelos Alunos:<br>
 &emsp;• [Lucas Matos](https://github.com/LucasMatos86)<br>
